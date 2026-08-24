@@ -1,7 +1,8 @@
 # Accompanying files
 This is the companion repository for the poster I made for the IMPRS Retreat to Berlin, 2026.
 
-You'll find attached files here.
+## Referenced "Astrophysical Magnetic Fields" by Shukurov and Subramanian
+![Link to DOI](https://ui.adsabs.harvard.edu/abs/2022GApFD.116..537B/abstract)
 
 ## News Clipping 1
 ![News Clipping 1](https://github.com/FugitiveDock282/PosterIMPRS26/blob/main/news-clipping.png)
